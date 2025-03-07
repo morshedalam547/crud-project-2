@@ -11,10 +11,4 @@ define("FETCH_SRC","http://localhost/crud-php/crud-project-2/uploads/");
 
 
 
-$n= 5+ 5;
-
-echo $n;
-
-
-
 
